@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Zoo_Management" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=Zoo_Management;Integrated Security=True" SettingsObjectName="LinQ_To_Forms3.Properties.Settings" SettingsPropertyName="Zoo_ManagementConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.[Table]" Member="Tables">
+    <Type Name="Table">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Animal_Type" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Animal_Name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Animal_Count" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Animal_Diet" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Animal_SleepTime" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Animal_WakingHours" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

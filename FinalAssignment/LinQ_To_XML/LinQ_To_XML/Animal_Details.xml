@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--LINQ To XML Demo-->
+<Animals>
+  <Animal AnimalID="101">
+    <Genera>Mammal</Genera>
+    <Name>Summit</Name>
+    <Diet>Cheese-Burger</Diet>
+    <Sleep_time>20hrs</Sleep_time>
+    <Wake_Time>2hrs</Wake_Time>
+  </Animal>
+  <Animal AnimalID="102">
+    <Genera>Mammal</Genera>
+    <Name>Tiger</Name>
+    <Diet>Summit</Diet>
+    <Sleep_time>10hrs</Sleep_time>
+    <Wake_Time>11hrs</Wake_Time>
+  </Animal>
+  <Animal AnimalID="103">
+    <Genera>Mammal</Genera>
+    <Name>Spider</Name>
+    <Diet>ButterFly</Diet>
+    <Sleep_time>10hrs</Sleep_time>
+    <Wake_Time>13hrs</Wake_Time>
+  </Animal>
+  <Animal AnimalID="104">
+    <Genera>Mammal</Genera>
+    <Name>Chameleon</Name>
+    <Diet>Flies</Diet>
+    <Sleep_time>5hrs</Sleep_time>
+    <Wake_Time>16hrs</Wake_Time>
+  </Animal>
+  <Animal AnimalID="105">
+    <Genera>Mammal</Genera>
+    <Name>Dragon</Name>
+    <Diet>Other Animals</Diet>
+    <Sleep_time>10Hrs</Sleep_time>
+    <Wake_Time>14hrs</Wake_Time>
+  </Animal>
+  <Animal AnimalID="106">
+    <Genera>Mammal</Genera>
+    <Name>Octopus</Name>
+    <Diet>Fishes</Diet>
+    <Sleep_time>5Hrs</Sleep_time>
+    <Wake_Time>19hrs</Wake_Time>
+  </Animal>
+  <Animal AnimalID="107">
+    <Genera>Mammal</Genera>
+    <Name>Cat</Name>
+    <Diet>rats</Diet>
+    <Sleep_time>15hrs</Sleep_time>
+    <Wake_Time>16hrs</Wake_Time>
+  </Animal>
+</Animals>
